@@ -1,0 +1,6 @@
+Tehtävä 0.4: Uusi muistiinpano
+
+1. Käyttäjä syöttää tekstiä lomakkeeseen sisältyvään tekstikenttään sivulla https://fullstack-exampleapp.herokuapp.com/notes ja painaa nappia Talleta.
+2. Selain lähettää POST-pyynnön lomakkeen action-attribuutissa määriteltyyn osoitteeseen https://fullstack-exampleapp.herokuapp.com/new_note. Pyynnön body-osassa välitetään käyttäjän antama teksti palvelimelle.
+3. Palvelin lisää käyttäjän antaman tekstin uudeksi muistiinpanoksi ja lähettää selaimelle vastauksen, joka sisältää uudelleenohjauspyynnön eli statuskoodin 302. Tällä kehotetaan selainta lähettämään GET-pyyntö location-kentässä annettuun osoitteeseen /notes.
+4. Selain tekee GET-pyynnön osoitteeseen https://fullstack-exampleapp.herokuapp.com/notes ja tapahtumaketju on sama kuin edellisen tehtävän ratkaisussa kuvattu. Lopulta käyttäjän antama teksti näkyy uutena muistiinpanona selaimen esittämällä sivulla.

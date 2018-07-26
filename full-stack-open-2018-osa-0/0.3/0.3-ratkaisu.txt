@@ -1,0 +1,13 @@
+Tehtävä 0.3: muistiinpanojen sivu
+
+1. Käyttäjä syöttää osoitteen https://fullstack-exampleapp.herokuapp.com/notes selaimen osoiteriville.
+2. Selain lähettää GET-pyynnön palvelimelle osoitteeseen https://fullstack-exampleapp.herokuapp.com/notes.
+3. Palvelin lähettää selaimelle vastauksena HTML-koodia statuskoodin 200 kera.
+4. Selain huomaa HTML-koodin head-osassa viittauksen tyylitiedostoon main.css ja lähettää GET-pyynnön palvelimelle osoitteeseen https://fullstack-exampleapp.herokuapp.com/main.css.
+5. Palvelin lähettää selaimelle vastauksena CSS-koodia statuskoodin 200 kera.
+6. Selain huomaa HTML-koodin head-osassa viittauksen Javascript-tiedostoon main.js ja lähettää GET-pyynnön palvelimelle osoitteeseen https://fullstack-exampleapp.herokuapp.com/main.js.
+7. Palvelin lähettää selaimelle vastauksena Javascript-koodia statuskoodin 200 kera.
+8. Selain suorittaa Javascript-koodia, jossa käsketään selainta tekemään GET-pyyntö osoitteeseen https://fullstack-exampleapp.herokuapp.com/data.json. Selain tekee pyynnön.
+9. Palvelin lähettää selaimelle vastauksena muistiinpanot sisältävän JSON-datan statuskoodin 200 kera.
+10. Selain jatkaa Javascript-koodin suorittamista. Koodissa määritellään, miten juuri ladatut muistiinpanot sisällytetään esitettävää sivua vastaavaan elementtipuuhun.
+11. Selain esittää muistiinpanot sisältävän sivun käyttäjälle annettujen CSS-tyylimäärittelyjen mukaisesti.

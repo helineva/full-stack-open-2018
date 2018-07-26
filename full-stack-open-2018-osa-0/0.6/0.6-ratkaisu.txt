@@ -1,0 +1,7 @@
+Tehtävä 0.6: Uusi muistiinpano SPA:ssa
+
+1. Käyttäjä syöttää tekstiä lomakkeeseen sisältyvään tekstikenttään sivulla https://fullstack-exampleapp.herokuapp.com/spa ja painaa nappia Talleta.
+2. Javascript-koodissa lomakkeen lähetykselle on rekisteröity tapahtumankäsittelijä, jonka selain nyt suorittaa. Tapahtumankäsittelijän koodissa estetään lomakkeen lähetyksen oletusarvoinen toiminta, luodaan käyttäjän antamasta tekstistä uusi muistiinpano ja lisätään se parhaillaan näytettävälle sivulle sekä määritellään muistiinpanon lähetys palvelimelle POST-pyynnöllä.
+3. Selain lähettää POST-pyynnön osoitteeseen https://fullstack-exampleapp.herokuapp.com/new_note_spa. Pyynnön body-osioissa välitetään käyttäjän antama teksti JSON-muodossa.
+4. Palvelin tallentaa tekstin muistiinpanoksi ja lähettää selaimelle vastauksen, joka sisältää statuskoodin 201. Tämä koodi kertoo selaimelle muistiinpanon lisäämisen onnistuneen.
+
