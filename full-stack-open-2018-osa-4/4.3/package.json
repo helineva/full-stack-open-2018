@@ -1,0 +1,25 @@
+{
+  "name": "bloglist",
+  "version": "1.0.0",
+  "description": "Bloglist",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "start": "node index.js",
+    "test": "jest --verbose",
+    "watch": "nodemon index.js"
+  },
+  "author": "TH",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.0.1",
+    "jest": "^23.2.0",
+    "nodemon": "^1.17.5"
+  }
+}
