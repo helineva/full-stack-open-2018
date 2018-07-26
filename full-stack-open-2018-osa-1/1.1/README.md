@@ -1,3 +1,5 @@
+**Tehtävä 1.1: jako komponenteiksi**
+
 Refaktoroitu koodia luomalla kolme uutta komponenttia Otsikko, Sisalto 
 ja Yhteensa.
 

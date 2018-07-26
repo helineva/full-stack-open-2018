@@ -1,6 +1,6 @@
-**Tehtävä 1.4: oliot taulukkoon**
+**Tehtävä 1.8: unicafe osa3**
 
-Sijoitettu kurssin osat taulukkoon.
+Refaktorointia uusiin komponentteihin.
 
 Lopputulos on nähtävissä osoitteessa http://localhost:3000/ komentojen
 

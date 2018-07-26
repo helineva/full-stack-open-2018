@@ -1,6 +1,6 @@
-**Tehtävä 1.4: oliot taulukkoon**
+**Tehtävä 1.13: anekdootit osa2**
 
-Sijoitettu kurssin osat taulukkoon.
+Lisätty sovellukseen anekdootin äänestys.
 
 Lopputulos on nähtävissä osoitteessa http://localhost:3000/ komentojen
 

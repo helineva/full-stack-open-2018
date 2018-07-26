@@ -1,6 +1,6 @@
-**Tehtävä 1.4: oliot taulukkoon**
+**Tehtävä 1.11: unicafe osa6**
 
-Sijoitettu kurssin osat taulukkoon.
+Sijoitettu tilastotiedot taulukkoon.
 
 Lopputulos on nähtävissä osoitteessa http://localhost:3000/ komentojen
 

@@ -1,6 +1,6 @@
-**Tehtävä 1.4: oliot taulukkoon**
+**Tehtävä 1.10: unicafe osa5**
 
-Sijoitettu kurssin osat taulukkoon.
+Muutettu napit käyttämään samaa tapahtumankäsittelijää.
 
 Lopputulos on nähtävissä osoitteessa http://localhost:3000/ komentojen
 

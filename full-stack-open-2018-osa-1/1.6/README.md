@@ -1,6 +1,6 @@
-**Tehtävä 1.4: oliot taulukkoon**
+**Tehtävä 1.6: unicafe osa1**
 
-Sijoitettu kurssin osat taulukkoon.
+Luotu palautesovellus.
 
 Lopputulos on nähtävissä osoitteessa http://localhost:3000/ komentojen
 
