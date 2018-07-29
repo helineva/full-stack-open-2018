@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LoginForm /> passes snapshot test after clicking 1`] = `
+<div>
+  <h2>
+    Log in to application
+  </h2>
+  <Form
+    as="form"
+    onSubmit={[Function]}
+  >
+    <FormField>
+      <label>
+        username
+      </label>
+      <input
+        name="username"
+        onChange={[Function]}
+        type="text"
+        value=""
+      />
+    </FormField>
+    <FormField>
+      <label>
+        password
+      </label>
+      <input
+        name="password"
+        onChange={[Function]}
+        type="password"
+        value=""
+      />
+    </FormField>
+    <Button
+      as="button"
+      role="button"
+      type="submit"
+    >
+      login
+    </Button>
+    <Button
+      as="button"
+      onClick={[Function]}
+      role="button"
+      type="submit"
+    >
+      cancel
+    </Button>
+  </Form>
+</div>
+`;
+
+exports[`<LoginForm /> passes snapshot test before clicking 1`] = `
+<div>
+  <Button
+    as="button"
+    onClick={[Function]}
+    role="button"
+  >
+    login
+  </Button>
+</div>
+`;
